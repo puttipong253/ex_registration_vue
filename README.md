@@ -1,5 +1,8 @@
 <h2>ระบบลงทะเบียนอบรมออนไลน์</h2> <br> 
 
+https://ex-registration-vue.vercel.app/ App <br>
+https://ex-registration-laravel.herokuapp.com API
+
 <b>หน้าแรกของระบบ</b> <br>
 
 ![image](https://user-images.githubusercontent.com/31680381/93706963-59773d00-fb55-11ea-9b27-df491737275f.png)
