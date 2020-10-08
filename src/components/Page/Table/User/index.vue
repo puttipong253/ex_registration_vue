@@ -290,6 +290,7 @@ export default {
         await this.$store.dispatch('setUsersTraining');
         await this.$store.dispatch('setUsersHotel');     
         await this.$store.dispatch('setUserRoom');     
+        await this.$store.dispatch('matching')
       }        
       else{
         return false;
