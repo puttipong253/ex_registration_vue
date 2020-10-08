@@ -2,7 +2,6 @@
   <Wrapper>
     <v-card-title>
       รายชื่อผู้เช็คอิน
-      <!-- <v-btn class="ml-5 info" @click="downloadHotel">ดาวน์โหลด</v-btn> -->
       <v-spacer></v-spacer>
       
       <v-text-field
